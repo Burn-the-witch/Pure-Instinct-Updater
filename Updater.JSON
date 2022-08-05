@@ -1,7 +1,7 @@
 {
     "version": "3.0.1",
     "changelog": "Emergency patch to fix localization, auto update added", 
-    "url": "https://hitman-resources.netlify.app/framework/updates/exampleMod.framework.zip",
+    "url": "https://www.dropbox.com/s/agyrgyi0bmt2ndm/Heritage%20UI.zip",
     "managedFilesAndFolders": [
         "Heritage UI"
     ]
