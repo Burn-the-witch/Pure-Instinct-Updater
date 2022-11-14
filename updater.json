@@ -1,7 +1,7 @@
 {
-    "version": "3.0.1",
-    "changelog": "Emergency patch to fix localization, auto update added", 
-    "url": "https://dl.dropboxusercontent.com/s/p945ovxeiewzdbe/Heritage%20UI.zip",
+    "version": "3.5.0",
+    "changelog": "Updated to SMF 2.0. Added Story Menu support and Expirimental Freelancer support.", 
+    "url": "https://dl.dropboxusercontent.com/s/evsebnj61rgjl80/Heritage%20UI.zip",
     "managedFilesAndFolders": [
         "Heritage UI"
     ]
