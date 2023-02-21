@@ -1,7 +1,7 @@
 {
-    "version": "4.0.0",
-    "changelog": "Complete refactor of the mod, proper blobs support instead of using raw files and all JSON syntax errors have been fixed. More granular options for backgrounds with a few new ones. New options for the HUD, including alpha style button prompts. A new option for a improved main menu.", 
-    "url": "https://dl.dropboxusercontent.com/s/289barqg5jhwtee/Heritage%20UI.zip",
+    "version": "4.0.1",
+    "changelog": "Complete refactor of the mod, proper blobs support instead of using raw files and all JSON syntax errors have been fixed. More granular options for backgrounds with a few new ones. New options for the HUD, including alpha style button prompts. A new option for a improved main menu. Fixed a oopsie.", 
+    "url": "https://dl.dropboxusercontent.com/s/oi1n5j4ae5gj841/Heritage%20UI.zip",
     "managedFilesAndFolders": [
         "Heritage UI"
     ]
