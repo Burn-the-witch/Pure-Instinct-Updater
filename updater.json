@@ -1,7 +1,7 @@
 {
-    "version": "4.0.1",
-    "changelog": "Complete refactor of the mod, proper blobs support instead of using raw files and all JSON syntax errors have been fixed. More granular options for backgrounds with a few new ones. New options for the HUD, including alpha style button prompts. A new option for a improved main menu. Fixed a oopsie.", 
-    "url": "https://dl.dropboxusercontent.com/s/oi1n5j4ae5gj841/Heritage%20UI.zip",
+    "version": "4.1.0",
+    "changelog": "Added missing localization thanks to various community members. Added a goodies folder with a few things to celebrate HUI's one year anniversary, mostly discord screencaps. The Freelancer tile on the dashboard now takes you to the planning menu with one click. 
+    "url": "https://dl.dropboxusercontent.com/s/kc36wnbvrq59tiy/Heritage%20UI.zip",
     "managedFilesAndFolders": [
         "Heritage UI"
     ]
