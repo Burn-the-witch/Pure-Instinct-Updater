@@ -1,7 +1,7 @@
 {
-    "version": "5.0.0",
-    "changelog": "Sniper Assassin, Ghost Mode and Vr support added. Fixed JSON issues. Lots of polish. Added fleur de lis to the rating screen, added support for ui previews in the options. New SA tracker. Legacy backgrounds from hitman 1,2 and 3 have been added, along with loading screens. New custom destination backgrounds to match.", 
-    "url": "https://dl.dropboxusercontent.com/s/vypmbybdxrofkye5t4upc/Heritage-UI.zip?rlkey=jick8dxkc9ppiwp02u003l81l&dl=0",
+    "version": "5.1.0",
+    "changelog": "Fixed Merces indicator and missing background. Added Objective Scale option.", 
+    "url": "https://dl.dropboxusercontent.com/scl/fi/fmt2ct4dabmk80sypatvr/Heritage-UI.zip?rlkey=wlal1id8skan7qom4a110xw7g&dl=0",
     "managedFilesAndFolders": [
         "Heritage UI"
     ]
