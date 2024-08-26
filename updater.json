@@ -1,8 +1,5 @@
 {
     "version": "3.0.1",
     "changelog": "Color fix for setpieces.", 
-    "url": "https://github.com/Burn-the-witch/Pure-Instinct-Updater/releases/download/v3.1/Pure.Instinct.zip",
-    "managedFilesAndFolders": [
-        "Pure Instinct"
-    ]
+    "url": "https://github.com/Burn-the-witch/Pure-Instinct-Updater/releases/download/v3.1/Pure.Instinct.zip"
 }
