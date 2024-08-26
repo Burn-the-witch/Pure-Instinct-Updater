@@ -1,7 +1,7 @@
 {
-    "version": "3.0.0",
-    "changelog": "Complete Overhaul of the mod with brand new features: Better Colors, Options for Outlines only, Option to darken screen, Infinite Witness range in Instinct. Preview Images now included.", 
-    "url": "https://github.com/Burn-the-witch/Pure-Instinct-Updater/releases/download/v3/Pure.Instinct.zip",
+    "version": "3.0.1",
+    "changelog": "Color fix for setpieces.", 
+    "url": "https://github.com/Burn-the-witch/Pure-Instinct-Updater/releases/download/v3.1/Pure.Instinct.zip",
     "managedFilesAndFolders": [
         "Pure Instinct"
     ]
